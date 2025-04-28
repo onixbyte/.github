@@ -1,5 +1,7 @@
 # Welcome to OnixByte 🌌
 
+![Banner](/brand/banner-filled.svg)
+
 ## Innovating Development, Empowering Developers
 
 At OnixByte, we aim to simplify and accelerate the software development process through high-quality, open-source tools and frameworks. Whether you're building a robust backend, a sleek frontend, or exploring automation, our resources are designed to meet your needs.
